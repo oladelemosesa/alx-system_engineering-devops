@@ -1,2 +1,2 @@
 #!/bin/bash
-grep '^'[[:alpha:]]' /tmp/ssh/sshd_config
+grep '^[[:alpha:]]' /tmp/ssh/sshd_config
